@@ -1,0 +1,28 @@
+.bg{
+	background-color: #AAAAAA;
+}
+
+.photo{
+	background-color: white;
+	padding: 10px;
+	height: 300px;
+	width:250px;
+	margin:10px;
+}
+
+.taille_home{
+	width:200px;
+	height:200px;
+}
+
+div>a{
+	width: 150px;
+	height: 150px;
+	margin: auto;
+}
+
+form{
+	width: 150px;
+	height: 150px;
+	margin: auto;
+}
